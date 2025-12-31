@@ -1,3 +1,53 @@
-theme: jekyll-theme-minimal
-title: Luca's homepage
-description: Bookmark this to keep an eye on my project updates!
+# theme: jekyll-theme-minimal
+# title: Luca's homepage
+# description: Bookmark this to keep an eye on my project updates!
+
+
+# Site settings
+title: Your Name — Software Engineer
+description: >
+  Software engineering projects, experiments, and technical write-ups.
+baseurl: ""        # leave empty unless your site is in a subfolder
+url: "https://yourusername.github.io"
+
+# Author
+author:
+  name: Your Name
+  email: youremail@example.com
+  github: yourusername
+  linkedin: your-linkedin
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation (used by many themes)
+header_pages:
+  - index.md
+  - projects.md
+  - about.md
+  - contact.md
+
+# Collections for projects
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+# Defaults for project pages
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
