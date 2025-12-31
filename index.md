@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-# Hi, I’m Luca Santarelli 👋
+## Hi, I’m Luca Santarelli 👋
 
 I’m a software engineer who builds practical, well-structured software.
 
