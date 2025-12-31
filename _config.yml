@@ -35,7 +35,7 @@ header_pages:
 collections:
   projects:
     output: true
-    permalink: /projects
+    permalink: /projects/:name
 
 # Defaults for project pages
 defaults:
