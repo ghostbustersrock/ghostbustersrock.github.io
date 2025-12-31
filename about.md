@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
-
-# About Me
 
 I’m a software engineer with an interest in building clean, maintainable systems.
 
