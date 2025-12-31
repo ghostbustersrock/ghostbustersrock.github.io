@@ -4,7 +4,7 @@
 
 
 # Site settings
-title: Your Name — Software Engineer
+title: Luca Santarelli — Software Engineer
 description: >
   Software engineering projects, experiments, and technical write-ups.
 baseurl: ""        # leave empty unless your site is in a subfolder
@@ -12,10 +12,10 @@ url: "https://ghostbustersrock.github.io"
 
 # Author
 author:
-  name: Your Name
-  email: youremail@example.com
-  github: yourusername
-  linkedin: your-linkedin
+  name: Luca Santarelli
+  email: luca.santarelli@hotmail.it
+  github: ghostbustersrock
+  LinkedIn: https://www.linkedin.com/in/luca-s-a68182118/
 
 # Build settings
 markdown: kramdown
