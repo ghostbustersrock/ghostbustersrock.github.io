@@ -28,14 +28,14 @@ plugins:
 header_pages:
   - index.md
   - projects.md
-  - about.md
+  - about_me.md
   - contact.md
 
 # Collections for projects
 collections:
   projects:
     output: true
-    permalink: /projects/:name/
+    permalink: /projects
 
 # Defaults for project pages
 defaults:
