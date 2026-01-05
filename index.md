@@ -19,4 +19,4 @@ This site showcases a few projects I’ve worked on, along with brief explanatio
 - AWS
 - Docker
 
-👉 Check out my [projects](https://ghostbustersrock.github.io/projects) to see my work.
+👉 Check out my [projects](https://ghostbustersrock.github.io/projects.html) to see my work.
